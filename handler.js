@@ -912,7 +912,7 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Bot
                                          "description": " List Group Official Kanna BOT",
                                          "rowId": ".gcbot"
                        }],
-                    "title": "Created By ℓettα - sαmα ♡"
+                    "title": "Created By ᴀʟᴘɪɴ ♡"
                   }
                         ], "contextInfo": 
                          { "stanzaId": m.key.id,
