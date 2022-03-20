@@ -69,7 +69,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '🌙 Ƙαnnα вσт\nwa.me/6282287750102\n\n\n𝙱𝚢 Alpin あ\n\n\nFollow IG: @en4y.pin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.'
+global.packname = '🌙 Ƙαnnα вσт\nwa.me/6282287750102\n\n\n𝙱𝚢 𝙰𝚕𝚙𝚒𝚗 あ\n\n\nFollow IG: @en4y.pin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.'
 global.author = '۰ ⸼'
 
 // BOT WM
@@ -94,7 +94,7 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg']
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg']
 
 //TEXT BOT
-global.wait = '```┌▰▰▰▱▱▱▱▱▱▱┐Loading...```'
+global.wait = '```┌▰▰▰▱▱▱▱▱▱▱┐Sedang diproses...```'
 global.rpg = '[ ! ] Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT'
 global.nsfw = '[ ! ] Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '```404 error```'
