@@ -59,7 +59,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
     let waofc = `@${'0'.split('@')[0]}`
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
- let ow = `@${'62831433937633'.split('@')[0]}`
+ let ow = `@${'6282287750102'.split('@')[0]}`
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
  let nurt = `@${'6281334177340'.split('@')[0]}`
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
@@ -451,7 +451,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 
                 「 *Ƙαnnα BOT あ⁩* 」`
 
-let ftt = `©️ Created By Letta - Sama`
+let ftt = `©️ Created By Alpin - XD`
     if (teks == '404') {
       return conn.send3ButtonLoc(m.chat, await (await fetch('https://telegra.ph/file/c73f47b440241b66cb9d3.jpg')).buffer(), tksk, ftt, 'COMMAND', '.simplemenu', 'DONASI', '.donasi', 'OWNER', '.nowner', m, { contextInfo: { mentionedJid: conn.parseMention(tksk)}})
   
